@@ -1,0 +1,17 @@
+body
+{
+    background:( lightcoral);
+    text-align :center;
+}
+h3{
+    color: rgb (33, 2, 61);
+font-size: 35px;
+}
+span{
+    font-size: 18px;
+    color: rgb(53, 2, 61);
+}
+canvas{
+    background: pink;
+    border-radius: 20px;
+}
